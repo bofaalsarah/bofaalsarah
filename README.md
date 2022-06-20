@@ -2,7 +2,7 @@
 
 <b style="color:orange">"No one is good at everything."</b>
 
-Ever since I was a young boy, I had a passion for computers and understanding things at a fundamental level to share them as clearly as possible. As I grew up, I traded my diary for a degree in Information Technology and now working full-time as a Data Platform Engineer.
+Ever since I was a young boy, I had a passion for computers and understanding things at a fundamental level to share them as clearly as possible. As I grew up, I traded my diary for a degree in Information Technology and now working full-time as an Infrastructure & Platform Engineer.
  
 - 💻 I love building new things starting from a blank whiteboard or early-stage prototype and transforming it into something people truly value and love. 
 
